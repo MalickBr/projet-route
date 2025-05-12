@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-         include_once __DIR__ .'/routes/routes.php';
+         include_once __DIR__ .'/routes/route.php';
     ?>
 
     <main>
